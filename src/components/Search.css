@@ -54,6 +54,7 @@
     border-radius: 50%;
     background: #ffffff;
     font-size: 16px;
+    outline: none;
     /* justify-content: center;
     align-items: center; */
 }
