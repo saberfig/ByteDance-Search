@@ -113,7 +113,7 @@ const Search = ({ searchStyle }) => {
   return (
     <div className='search-container'>
       <div className={searchStyle} >
-        <div className='search-title'>极净搜</div>
+        <div className='search-title'>即刻搜索</div>
         <div className='search-icon'>
           <i className='iconfont'>&#xe653;</i>
         </div>
